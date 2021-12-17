@@ -1,0 +1,9 @@
+{
+    "endpoints": {
+        "/": true,
+        "./": true,
+        "https://gagominecraft12.github.io/blueityclientrips/": true
+    },
+
+    "message": "OK"
+}
